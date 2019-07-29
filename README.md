@@ -7,6 +7,6 @@
 本软件目前只有mac版，不过GUI使用tkinter编写，软件编译成Windows版本基本无需改动，可下载[源代码](https://raw.githubusercontent.com/skjgsk/RandomOpenVideo/master/GuiRandomFile.py)自行尝试。如果有Windows用户有需求可以发Issues，没有需要我就不多此一举了。  
 <div align="center" style="display: flex;flex-flow: column nowrap;justify-content: start;align-items: center;">
   <img src="https://github.com/skjgsk/RandomOpenVideo/blob/master/img/main_window.png" width="400"/>
-  <span>软件界面</span>
+  <div>软件界面</div>
 </div>   
 好的
